@@ -1,0 +1,17 @@
+{
+    "phone": [
+      "\"{target}\"",
+      "\"{target}\" site:facebook.com",
+      "\"{target}\" site:instagram.com",
+      "\"{target}\" site:twitter.com",
+      "\"{target}\" filetype:pdf",
+      "\"{target}\" ext:log"
+    ],
+    "domain": [
+      "site:{target}",
+      "site:{target} filetype:pdf",
+      "site:{target} intitle:\"index of\"",
+      "site:{target} ext:sql",
+      "site:{target} ext:env"
+    ]
+  }
